@@ -2,6 +2,9 @@
 An api to run a stable diffusion model, allowing for one to try on different clothes.
 
 
+Please note, the model itself was made by Anydoor and has already been implemented. My work was to host it on Modal.com, and make it into a quick api using flask: modal_stable_diffusion.py. 
+
+
 Example:
 
 
