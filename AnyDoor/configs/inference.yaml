@@ -1,0 +1,4 @@
+pretrained_model: /FashionSwap/AnyDoor/model/epoch=1-step=8687-pruned.ckpt
+config_file: /FashionSwap/AnyDoor/configs/anydoor.yaml
+save_memory: False
+ 
