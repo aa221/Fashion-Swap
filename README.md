@@ -16,4 +16,4 @@ After trying something on -
 
 
 
-Special shoutout to modal.com whop make it easy to deploy models as API. 
+Special shoutout to modal.com who make it easy to deploy models as API. 
